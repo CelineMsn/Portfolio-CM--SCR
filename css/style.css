@@ -15,7 +15,7 @@ h3 {
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 90px;
 }
 
 h2 {
@@ -93,7 +93,7 @@ p {
 
 @media (max-width: 685px) {
   h1 {
-    font-size: 60px;
+    font-size: 72px;
   }
 }
 
