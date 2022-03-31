@@ -91,6 +91,12 @@ p {
   text-decoration: underline;
 }
 
+@media (max-width: 685px) {
+  h1 {
+    font-size: 60px;
+  }
+}
+
 @media (max-width: 576px) {
   h1 {
     font-size: 48px;
